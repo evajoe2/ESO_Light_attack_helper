@@ -7,6 +7,15 @@
     you need pip install pynput
     this program is Ver 0.02  and tested on python 3.10
     
-    added exe file for some 1 dont use python
+    added exe file for someone dont use python
+    in exefile
+    key 6 >key 1
+    key 7 >key 2
+    key 8 >key 3
+    key 9 >key 4
+    key 0 >key 5
+    key Home >Exit program
+    
+    
     
 """
