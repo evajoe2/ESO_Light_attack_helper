@@ -14,6 +14,26 @@ also make a exe file ,for who dont use python folk
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 """
     this is  the Elder Scroll online light attack helper
     when you use the assigned skill key , also have light attack enabled
