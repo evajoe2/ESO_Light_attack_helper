@@ -1,5 +1,19 @@
 # ESO_Light_attack_helper
 
+Verson 0.1
+
+can assign keymap your own
+remember dont assign with same key with eso program
+*** than mean dont assign with 1 to 5 key***
+also make a exe file ,for who dont use python folk
+
+
+
+
+
+
+
+
 """
     this is  the Elder Scroll online light attack helper
     when you use the assigned skill key , also have light attack enabled
